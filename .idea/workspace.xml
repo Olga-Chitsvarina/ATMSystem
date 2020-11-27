@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a766e7c2-5a0e-4e4d-a607-99970d7b41c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606499682806</updated>
       <workItem from="1606499683910" duration="1370000" />
-      <workItem from="1606508252225" duration="3921000" />
+      <workItem from="1606508252225" duration="8983000" />
     </task>
     <servers />
   </component>
@@ -45,5 +48,9 @@
       <screen x="0" y="37" width="1920" height="1019" />
     </state>
     <state x="426" y="241" key="SettingsEditor/0.37.1920.1019@0.37.1920.1019" timestamp="1606508523277" />
+    <state x="598" y="161" width="946" height="796" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606515941491">
+      <screen x="0" y="37" width="1920" height="1019" />
+    </state>
+    <state x="598" y="161" width="946" height="796" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.37.1920.1019@0.37.1920.1019" timestamp="1606515941491" />
   </component>
 </project>
